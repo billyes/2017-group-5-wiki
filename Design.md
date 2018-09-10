@@ -57,7 +57,7 @@ We are creating an app for our users that will analyze their trash on the go. Ou
 
 ### Domain Analysis
 
-![](https://github.com/jhu-oose/2017-group-5/blob/master/Iteration1/domain.png)
+![](https://github.com/jhu-oose/2017-group-5-wiki/blob/master/Iteration1/domain.png)
 
 
 ### Create a profile
@@ -121,27 +121,27 @@ We are creating an app for our users that will analyze their trash on the go. Ou
 
 
 ## UI Sketches
-![](https://github.com/jhu-oose/2017-group-5/blob/master/Iteration1/screen1.png)
+![](https://github.com/jhu-oose/2017-group-5-wiki/blob/master/Iteration1/screen1.png)
 
-![](https://github.com/jhu-oose/2017-group-5/blob/master/Iteration1/screen2.png)
+![](https://github.com/jhu-oose/2017-group-5-wiki/blob/master/Iteration1/screen2.png)
 
-![](https://github.com/jhu-oose/2017-group-5/blob/master/Iteration1/screen3.png)
+![](https://github.com/jhu-oose/2017-group-5-wiki/blob/master/Iteration1/screen3.png)
 
-![](https://github.com/jhu-oose/2017-group-5/blob/master/Iteration1/screen4.png)
+![](https://github.com/jhu-oose/2017-group-5-wiki/blob/master/Iteration1/screen4.png)
 
-![](https://github.com/jhu-oose/2017-group-5/blob/master/Iteration1/screen5.png)
+![](https://github.com/jhu-oose/2017-group-5-wiki/blob/master/Iteration1/screen5.png)
 
-![](https://github.com/jhu-oose/2017-group-5/blob/master/Iteration1/screen6.png)
+![](https://github.com/jhu-oose/2017-group-5-wiki/blob/master/Iteration1/screen6.png)
 
-![](https://github.com/jhu-oose/2017-group-5/blob/master/Iteration1/screen7.png)
+![](https://github.com/jhu-oose/2017-group-5-wiki/blob/master/Iteration1/screen7.png)
 
-![](https://github.com/jhu-oose/2017-group-5/blob/master/Iteration1/screen8.png)
+![](https://github.com/jhu-oose/2017-group-5-wiki/blob/master/Iteration1/screen8.png)
 
 ## Prototypes
 
-![](https://github.com/jhu-oose/2017-group-5/blob/master/Iteration2/prototype1.jpg)
+![](https://github.com/jhu-oose/2017-group-5-wiki/blob/master/Iteration2/prototype1.jpg)
 
-![](https://github.com/jhu-oose/2017-group-5/blob/master/Iteration2/prototype2.jpg)
+![](https://github.com/jhu-oose/2017-group-5-wiki/blob/master/Iteration2/prototype2.jpg)
 
 ## Use Cases
 
@@ -227,11 +227,11 @@ We are creating an app for our users that will analyze their trash on the go. Ou
 
 ## UML Diagram
 
-![Jiwon's UML Diagram Link in the parantheses ->](https://github.com/jhu-oose/2017-group-5/blob/master/Iteration2/UML.png)
+![Jiwon's UML Diagram Link in the parantheses ->](https://github.com/jhu-oose/2017-group-5-wiki/blob/master/Iteration2/UML.png)
 
 ## Architecture
 
-![](https://github.com/jhu-oose/2017-group-5/blob/master/Iteration2/Architecture.png)
+![](https://github.com/jhu-oose/2017-group-5-wiki/blob/master/Iteration2/Architecture.png)
 
 ### Client Side 
 
