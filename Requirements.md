@@ -48,7 +48,7 @@ We are creating an app for our users that will analyze their trash on the go. Ou
 
 ### Domain Analysis
 
-![](https://github.com/jhu-oose/2017-group-5/blob/master/Iteration1/domain.png)
+![](https://github.com/jhu-oose/2017-group-5-wiki/blob/master/Iteration1/domain.png)
 
 
 ### Create a profile
